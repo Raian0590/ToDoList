@@ -32,7 +32,7 @@ Uma **API RESTful** completa para gerenciamento de tarefas desenvolvida com **Sp
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Raian0590/ToDoList
 cd todo-list
 ```
 
